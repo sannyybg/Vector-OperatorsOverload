@@ -1,0 +1,6 @@
+C:\Users\99555\source\repos\Vectors\bin\Debug\Vectors.exe.config
+C:\Users\99555\source\repos\Vectors\bin\Debug\Vectors.exe
+C:\Users\99555\source\repos\Vectors\bin\Debug\Vectors.pdb
+C:\Users\99555\source\repos\Vectors\obj\Debug\Vectors.csprojAssemblyReference.cache
+C:\Users\99555\source\repos\Vectors\obj\Debug\Vectors.exe
+C:\Users\99555\source\repos\Vectors\obj\Debug\Vectors.pdb
